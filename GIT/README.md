@@ -31,6 +31,8 @@ Configurar Git definiendo el nombre del usuario, el correo electrónico y activa
 12. Cambiar el mensaje del último commit por “Añadido capítulo 3 sobre gestión de ramas al índice.”
 13. Volver a mostrar los últimos cambios del repositorio.
 
+#### Recursos 
+
 A continuación se muestran algunos ejercicios recomendados para relizar con diferente nivel de complejidad, se recomienda realizarlos todos para tener mejor dominio de como usar GIT de manera correcta. 🚀
 
 - [Repositorio_praqma-training](https://github.com/praqma-training/git-katas/blob/master/Overview.md) El cual cuenta con alrededor de 20 ejercicios.
