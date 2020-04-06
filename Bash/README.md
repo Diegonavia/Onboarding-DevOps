@@ -8,6 +8,13 @@ En esta seccion encontrarás ejercicios que ayudarán a reforzar los conocimient
 
 Realize un script que cuenta el número de directorios y archivos que hay en /etc.
 
+- ### Ejercicio 2
+
+Realice un script que compruebe el usuario actual del sistema. Si es root, envíe un mensaje de saludo, sino un mensaje de despedida.
+
+- ### Ejercicio 3
+
+Realice un script que muestre la **IP** del equipo por pantalla.
 
 #### Recursos
 
