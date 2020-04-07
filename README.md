@@ -16,6 +16,9 @@ Este proyecto está orientado a todos los DevOps que se integren al equipo de Co
 - Familiarizarse con la Infraestructura del proyecto [Infraestructura](https://github.com/Diegonavia/Onboarding-DevOps/tree/master/Infraestructura) y todos sus componentes.
 - Conocer los componentes que integran el proyecto y las herramientas utilizadas para la realización de las actividades diarias [Presentación](https://github.com/Diegonavia/Onboarding-DevOps/tree/master/Presentaci%C3%B3n). 
 - Leer este [Artículo](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) aquellos DevOps que están iniciando en la posición, para que se tenga claro hacia que apunta esta cultura, y como integrar las distintas herramientas.
+- En este [Road-Map](https://roadmap.sh/devops) encontrarán las principales herramientas y tecnologías que un **DevOps** debería dominar, o al menos tener un conocimiento teórico de las mismas. 
+
+En este Onboarding se abundarán las principales herramientas de este RoadMap, pero queda en cada uno de ustedes seguir aprendiendo cada día y seguir capacitandose con cada una de las tecnologías mencionadas.
 
 ## Herramientas utilizadas en el Proyecto 	💻
 
