@@ -30,3 +30,5 @@ En este [Blog](https://medium.com/quick-code/top-tutorials-to-learn-ansible-33af
 
 En este [Repositorio](https://github.com/avishayil/ansible-workshop) encontrarán una variedad de ejercicios de Ansible de diferente complejidad que le ayudarán en el dominio de la herramienta. 
 
+
+![image](https://user-images.githubusercontent.com/45079819/78720575-f4f05a80-78f3-11ea-8fd4-029c2b0d2566.png)
