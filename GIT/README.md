@@ -1,6 +1,6 @@
 # GIT 🔱
 
-En esta sección, se dispondrán de diferentes ejercicios para afianzar los conocimientos en GIT y así poner en práctica los conocimientos.
+En esta sección, se dispondrán de diferentes ejercicios para afianzar los conocimientos y mejorar el dominio de GIT.
 
 ## Ejercicios :neckbeard:
 
