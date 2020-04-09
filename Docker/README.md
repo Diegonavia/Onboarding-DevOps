@@ -1,6 +1,6 @@
 # Docker 🐳
 
-En esta sección, se dispondrán de diferentes ejercicios para afianzar los conocimientos en Jenkins y así poner en práctica los conocimientos.
+En esta sección, se dispondrán de diferentes ejercicios para afianzar los conocimientos y mejorar el dominio de la herramienta Docker.
 
 ## Ejercicios :neckbeard:
 
